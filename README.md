@@ -8,7 +8,9 @@
 
 <p>The goal is to implement, using the 5 GRASP patterns seen in the last class.</p>
 
-<ul>The system should include the following features:
+<p>The system should include the following features:</p>  
+  
+<ul>
   <li> Supplier supplies products</li>
   <li> Products, when purchased from the supplier, go into stock</li>
   <li> A customer can buy products from stock</li>
