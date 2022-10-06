@@ -11,7 +11,7 @@ package com.mycompany.java_store;
 public class Provider {
     private int id;
     private String productName;
-    private String provider;
+    private String providerName;
 
     public int getId() {
         return id;
@@ -30,10 +30,10 @@ public class Provider {
     }
 
     public String getProvider() {
-        return provider;
+        return providerName;
     }
 
     public void setProvider(String provider) {
-        this.provider = provider;
+        this.providerName = provider;
     }
 }
